@@ -160,6 +160,10 @@ This library does not bundle or redistribute any model weights. You bring your o
 | Silero VAD v5 | Voice activity detection | [`onnx-community/silero-vad`](https://huggingface.co/onnx-community/silero-vad) ([upstream](https://github.com/snakers4/silero-vad)) | [MIT](https://github.com/snakers4/silero-vad/blob/master/LICENSE) |
 | LiveKit turn-detector | End-of-turn detection | [`livekit/turn-detector`](https://huggingface.co/livekit/turn-detector) | [Apache-2.0](https://huggingface.co/livekit/turn-detector) |
 
+## Credits
+
+The original implementation was written by hand by the maintainers and later refined with the help of AI tooling — refactoring into a reusable library, tightening tests, and improving the documentation.
+
 ## Contributing
 
 ```bash
